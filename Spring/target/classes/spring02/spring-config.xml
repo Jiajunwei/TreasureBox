@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- 使用无参构造方法创建对象 -->
+    <bean id="s1" class="com.home.spring02.pojo.Student"></bean>
+
+    <!-- 使用有参构造方法创建对象 -->
+    <bean id="s2" class="com.home.spring02.pojo.Student">
+        <constructor-arg name="id" value="2"></constructor-arg>
+        <constructor-arg name="name" value="s2"></constructor-arg>
+    </bean>
+
+    <!-- 通过属性进行赋值 -->
+    <!-- 通过属性进行赋值时要求属性有setter方法 -->
+    <bean id="address" class="com.home.spring02.pojo.Address">
+        <property name="country" value="中国"></property>
+        <property name="city" value="北京"></property>
+    </bean>
+
+    <!-- 使用有参构造方法创建对象，并通过属性进行赋值 -->
+    <bean id="t1" class="com.home.spring02.pojo.Teacher">
+        <constructor-arg name="id" value="1"></constructor-arg>
+        <constructor-arg name="name" value="t1"></constructor-arg>
+        <property name="age" value="30"></property>
+        <property name="sex" value="男"></property>
+        <property name="address" ref="address"></property>
+    </bean>
+
+    <!-- 在使用构造方法时，也可通过索引指定参数，顺序为构造函数参数的顺序-->
+
+    <bean id="t2" class="com.home.spring02.pojo.Teacher">
+        <constructor-arg index="0" value="2"></constructor-arg>
+        <constructor-arg index="1" value="t2"></constructor-arg>
+    </bean>
+
+    <!-- 创建的对象默认是单例的，可通过scope指定作用域-->
+    <bean id="t3" class="com.home.spring02.pojo.Teacher" scope="prototype">
+        <constructor-arg name="id" value="3"></constructor-arg>
+        <constructor-arg name="name" value="t3"></constructor-arg>
+    </bean>
+
+    <!-- 可以将bean定义为延迟加载防止它提前实例化。延迟初始化bean会告诉Ioc容器在第一次需要的时候才实例化而不是在容器启动时就实例化 -->
+    <bean id="t4" class="com.home.spring02.pojo.Teacher" lazy-init="true">
+        <constructor-arg name="id" value="3"></constructor-arg>
+        <constructor-arg name="name" value="t3"></constructor-arg>
+    </bean>
+
+    <!--  初始化回调函数 -->
+    <bean id="t5" class="com.home.spring02.pojo.Teacher" init-method="init" destroy-method="over">
+        <constructor-arg name="id" value="3"></constructor-arg>
+        <constructor-arg name="name" value="t3"></constructor-arg>
+    </bean>
+
+
+
+</beans>
