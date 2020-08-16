@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
+
+    <!-- 被代理对象 -->
+    <bean id="math" class="com.home.spring08_aop.common.MyMath"></bean>
+
+    <!-- 通知 -->
+    <bean id="advices" class="com.home.spring08_aop.common.Advices"></bean>
+
+    <!-- aop配置（切面配置、切入点配置） -->
+    <!-- proxy-target-class属性表示被代理的类是否为一个没有实现接口的类，Spring会依据实现了接口则使用JDK内置的动态代理，如果未实现接口则使用cblib -->
+    <aop:config proxy-target-class="true">
+        <!--切面配置  -->
+        <aop:aspect ref="advices">
+            <!-- 切点,配置切入点(横切逻辑将注入的精确位置)，下面表示切入点为MyMath的所有方法 -->
+            <aop:pointcut expression="execution(* com.home.spring08_aop.common.MyMath.*(..))" id="pointcut1"/>
+            <!--连接通知方法与切点 -->
+            <!--声明通知，method指定通知类型，pointcut指定切点，就是该通知应该注入哪些方法中 -->
+            <!-- 在切入点的之前（之后、环绕等）执行指定的方法，从而进行增强-->
+            <aop:before method="before" pointcut-ref="pointcut1"/>
+            <aop:after method="after" pointcut-ref="pointcut1"/>
+        </aop:aspect>
+    </aop:config>
+
+</beans>

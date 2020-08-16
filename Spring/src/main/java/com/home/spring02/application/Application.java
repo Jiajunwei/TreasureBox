@@ -6,6 +6,13 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Application {
+    // 使用无参构造方法创建对象
+    // 使用有参构造方法创建对象
+    // 通过属性赋值
+    // 对象引用
+    // 对象作用域
+    // 延迟初始化bean
+    // 初始化回调函数
     public static void main(String[] args) {
         ApplicationContext ctx= new ClassPathXmlApplicationContext("spring02/spring-config.xml");
         // 两种方法获取Student对象，其中s1是无参构造方法创建的对象，s2是有参构造方法创建的对象

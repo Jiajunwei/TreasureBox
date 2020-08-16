@@ -19,7 +19,7 @@ public class Application {
 //    @Resource(name = "impl") // 使用@Resource注入，根据@Service指定的名称区分
 //    BookDao bookDao;
 
-
+    // 使用Spring注解配置IOC（Application类）
     public static void main(String[] args) {
         ApplicationContext ctx = new ClassPathXmlApplicationContext("spring04/spring-config.xml");
         Application obj = ctx.getBean(Application.class);
