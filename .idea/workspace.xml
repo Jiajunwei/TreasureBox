@@ -1,9 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Spring03_Demo:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb089a50-5cfa-45bf-afc9-3e276777b373" name="Default Changelist" comment="" />
+    <list default="true" id="bb089a50-5cfa-45bf-afc9-3e276777b373" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring03_Demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/sql/spring09_mybatis/1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/entities/BookType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/BookTypeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/BookTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/impl/BookTypeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/utils/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/resources/spring09_mybatis/MyBatisCfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/test/java/spring09/TestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/application/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/dao/BookTypeDAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/dao/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/entities/BookType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapping/BookTypeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapping/BookTypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/utils/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/resources/ApplicationContext2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/resources/MyBatisCfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring02/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/Spring03_Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/sql/sql.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BaseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/entities/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/mapper/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/util/CtxUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/resources/mapper/BookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/webapp/AddBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/webapp/EditBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/webapp/ListBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/main/webapp/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring03_Demo/src/test/java/BooKTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/target/classes/com/home/spring02/application/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/target/classes/com/home/spring02/application/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/target/classes/com/home/spring04/QualifierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/target/classes/com/home/spring05/application/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/target/classes/com/home/spring05/application/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Spring/target/" />
+    <ignored path="$PROJECT_DIR$/Spring02/target/" />
+    <ignored path="$PROJECT_DIR$/Spring03_Demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +74,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/dao/impl/BookDaoImpl.java">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="316">
+              <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/mapper/BookDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -25,70 +95,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/dao/impl/BookDaoImpl2.java">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/resources/mapper/BookMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="207">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/resources/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-161">
+              <caret line="44" column="60" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1206#1222#0" expanded="true" />
+                <element signature="e#1286#1299#0" expanded="true" />
+                <element signature="e#1360#1373#0" expanded="true" />
+                <element signature="e#1437#1450#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/application/Application.java">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-121">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/util/CtxUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#631#632#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/application/Application.java">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BaseController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
-              <caret line="41" column="67" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="67" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#545#546#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#807#808#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring05/spring-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/dao/BookDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/test/java/spring04/TestTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="136">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,33 +156,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/dao/impl/BookDAOImpl.java">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BookController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="-378">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#1483#1484#0" expanded="true" />
+                <element signature="e#1519#1520#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/dao/BookDao.java">
+        <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/test/java/BooKTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring02/spring-config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="104" selection-start-line="3" selection-start-column="104" selection-end-line="3" selection-end-column="104" />
+            <state relative-caret-position="274">
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+                <element signature="e#1267#1268#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -139,62 +196,72 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/dao/IBookDAO.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/dao/BookDAO.java" />
-        <option value="$PROJECT_DIR$/Spring/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/Spring/src/test/java/TestTest.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/service/BookService.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring-config.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/test001/readme" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/BookDAOImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/BookService.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/BookDAO.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/StudentDao.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/impl/StudentDaoImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/StudentService.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/impl/BookServiceImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring01/spring-config.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/impl/StudentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/test/java/spring01/TestTest.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring06/application/Application.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring06/config/ApplicationCfg.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring07/spring-config.xml" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring07/config/SpringCfg.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring07/application/Application.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring07/db.properties" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring07/utils/DbUtils.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/Spring/sql/spring09_mybatis/1.sql" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/entities/BookType.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring08_aop/MyBatisCfg.xml" />
+        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring08_aop/db.properties" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/impl/BookTypeDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/resources/mapper/BookTypeMapper.xml" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/BookTypeDAO.java" />
+        <option value="$PROJECT_DIR$/Spring/src/test/java/spring09/TestTest.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/utils/MyBatisUtil.java" />
         <option value="$PROJECT_DIR$/Spring/pom.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Student.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Address.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Human.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Teacher.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring02/spring-config.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/BookDao.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/impl/BookDaoImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/service/StudentService.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/impl/StudentDaoImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/service/impl/StudentServiceImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/test/java/spring03/TestTest.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/impl/BookDAOImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring03/spring-config.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/service/impl/BookServiceImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/dao/BookDao.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/service/BookService.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring04/spring-config.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/test/java/spring04/TestTest.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/dao/impl/BookDaoImpl2.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/dao/impl/BookDaoImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/service/impl/BookServiceImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/application/Application.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/impl/BookDAOImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/QualifierTest.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/InjectTest.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/dao/impl/BookDAOImpl.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring05/spring-config.xml" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/dao/BookDAO.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/application/QualifierTest.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/application/Application.java" />
-        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/application/Application.java" />
+        <option value="$PROJECT_DIR$/Spring/src/main/resources/spring09_mybatis/MyBatisCfg.xml" />
+        <option value="$PROJECT_DIR$/Spring/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/application/Application.java" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapper/BookTypeDAO.java" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapper/BookTypeMapper.xml" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapper/impl/BookTypeDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/entities/BookType.java" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapping/BookTypeDAO.java" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/dao/BookTypeDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/application/Application.java" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapping/BookTypeMapper.xml" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/ApplicationContext.xml" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/java/MyBatisCfg.xml" />
+        <option value="$PROJECT_DIR$/Spring02/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/resources/ApplicationContext.xml" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/resources/MyBatisCfg.xml" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/Spring02/src/main/resources/ApplicationContext2.xml" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/sql/sql.sql" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/entities/Book.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/entities/Book.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/dao/BookDAO.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/resources/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/service/BookService.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/test/java/BooKTest.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/resources/mapper/BookMapper.xml" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BaseController.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/BookController.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BookController.java" />
+        <option value="$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/util/CtxUtil.java" />
       </list>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -215,14 +282,13 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,88 +299,101 @@
             <path>
               <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
               <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
               <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
               <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
               <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
               <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
               <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreasureBox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TreasureBox" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring03_Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597320155803" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597726164208" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring03_Demo/src/main/webapp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20973451" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources\test001" />
-      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring03_Demo\src\main\webapp" />
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring02\src\main\resources" />
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring02\src\main\java" />
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring02\src\main\java\come\home\spring02_01\mapping" />
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring02\src\main\java\come\home\spring02_01\entities" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="spring04" />
       <recent name="spring03" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources\spring05" />
-      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\java\com\home\spring05" />
-      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources\spring04" />
-      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources\spring03" />
-      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\java\com\home\spring03" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources" />
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\java\com\home\spring_09_mybatis\mapper" />
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources\spring07" />
+      <recent name="F:\SelfWorkSpace\WorkHome\TreasureBox\Spring\src\main\resources\test001" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -329,26 +408,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application (1)">
-    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.spring05.application.Application" />
-      <module name="Spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.home.spring05.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.16">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.spring02.application.Application" />
-      <module name="Spring" />
+      <option name="MAIN_CLASS_NAME" value="come.home.spring02_01.application.Application" />
+      <module name="Spring02" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.home.spring02.application.*" />
+          <option name="PATTERN" value="come.home.spring02_01.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,42 +435,115 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.home.spring04.service.impl.BookServiceImpl" />
-      <module name="Spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.home.spring04.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestTest.testStoreBook (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spring04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="spring04" />
-      <option name="MAIN_CLASS_NAME" value="spring04.TestTest" />
-      <option name="METHOD_NAME" value="testStoreBook" />
+    <configuration name="BooKTest.testGetAllBooks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring03_Demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooKTest" />
+      <option name="METHOD_NAME" value="testGetAllBooks" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestTest.testGetAllBookTypes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spring09" />
+      <option name="MAIN_CLASS_NAME" value="spring09.TestTest" />
+      <option name="METHOD_NAME" value="testGetAllBookTypes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.16" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\Program Files\Java\jdk1.8.0_201\jre" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Spring03_Demo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Spring03" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_TreasureBox_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="4480" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Spring03_Demo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.TestTest.testGetAllBookTypes" />
+      <item itemvalue="JUnit.BooKTest.testGetAllBooks" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.16" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application (1)" />
-        <item itemvalue="Application.QualifierTest" />
+        <item itemvalue="JUnit.BooKTest.testGetAllBooks" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="Application.BookServiceImpl" />
-        <item itemvalue="JUnit.TestTest.testStoreBook (2)" />
+        <item itemvalue="JUnit.TestTest.testGetAllBookTypes" />
       </list>
     </recent_temporary>
   </component>
@@ -419,59 +558,87 @@
       <option name="presentableId" value="Default" />
       <updated>1597295698550</updated>
       <workItem from="1597295702162" duration="15052000" />
-      <workItem from="1597313309668" duration="4715000" />
+      <workItem from="1597313309668" duration="4937000" />
+      <workItem from="1597380403387" duration="7173000" />
+      <workItem from="1597639893386" duration="3731000" />
+      <workItem from="1597654558115" duration="12243000" />
     </task>
+    <task id="LOCAL-00001" summary="零配置实现IOC（基于类的Java Config）">
+      <created>1597382320708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597382320708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="零配置实现IOC（基于类的Java Config）">
+      <created>1597397214633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597397214633</updated>
+    </task>
+    <task id="LOCAL-00003" summary="通过注解@Value获取properties配置">
+      <created>1597399872150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597399872150</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestTest_testStoreBook_(1) - 2020.08.13 at 17h 36m 08s.xml">
-      <configuration name="TestTest.testStoreBook (1)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 14h 08m 02s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(1) - 2020.08.13 at 17h 41m 42s.xml">
-      <configuration name="TestTest.testStoreBook (1)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 14h 08m 51s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(1) - 2020.08.13 at 17h 43m 46s.xml">
-      <configuration name="TestTest.testStoreBook (1)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 14h 10m 33s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(1) - 2020.08.13 at 17h 46m 29s.xml">
-      <configuration name="TestTest.testStoreBook (1)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 14h 11m 44s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(2) - 2020.08.13 at 17h 53m 10s.xml">
-      <configuration name="TestTest.testStoreBook (2)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 14h 13m 37s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(2) - 2020.08.13 at 17h 54m 10s.xml">
-      <configuration name="TestTest.testStoreBook (2)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 14h 14m 57s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(2) - 2020.08.13 at 17h 55m 45s.xml">
-      <configuration name="TestTest.testStoreBook (2)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 14h 16m 26s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(2) - 2020.08.13 at 17h 57m 56s.xml">
-      <configuration name="TestTest.testStoreBook (2)" configurationId="JUnit" />
+    <history-entry file="TestTest_testGetAllBookTypes - 2020.08.17 at 17h 12m 19s.xml">
+      <configuration name="TestTest.testGetAllBookTypes" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(2) - 2020.08.13 at 17h 58m 39s.xml">
-      <configuration name="TestTest.testStoreBook (2)" configurationId="JUnit" />
+    <history-entry file="BooKTest_testGetAllBooks - 2020.08.17 at 19h 57m 23s.xml">
+      <configuration name="BooKTest.testGetAllBooks" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestTest_testStoreBook_(2) - 2020.08.13 at 17h 59m 01s.xml">
-      <configuration name="TestTest.testStoreBook (2)" configurationId="JUnit" />
+    <history-entry file="BooKTest_testGetAllBooks - 2020.08.17 at 19h 59m 14s.xml">
+      <configuration name="BooKTest.testGetAllBooks" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19767000" />
+    <option name="totallyTimeSpent" value="43136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2835821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" weight="0.329718" />
+      <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34777898" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3470716" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.37852496" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -480,9 +647,9 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286334" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -501,288 +668,17 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="readme" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="零配置实现IOC（基于类的Java Config）" />
+    <MESSAGE value="通过注解@Value获取properties配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="通过注解@Value获取properties配置" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring03/spring-config.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/test001/readme" />
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/BookService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/BookDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/impl/StudentDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/StudentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/StudentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/test/java/spring01/TestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/impl/StudentServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="582" column="17" selection-start-line="582" selection-start-column="17" selection-end-line="582" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#646#647#0" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#745#746#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#390#391#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03.java" />
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/service/impl/StudentServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/service/impl/BookServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring01/dao/impl/BookDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/service/StudentService.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.jar!/org/springframework/context/annotation/ScopedProxyMode.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.jar!/org/springframework/context/annotation/Scope.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/javax/annotation/PostConstruct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/StudentDao.java" />
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/impl/StudentDaoImpl.java" />
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/BookDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.0.RELEASE/spring-context-4.3.0.RELEASE.jar!/org/springframework/context/support/ClassPathXmlApplicationContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring03/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/service/BookService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/service/impl/BookServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring04/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/pojo/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/service/BookService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/test/java/spring03/TestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/service/impl/BookServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="15" column="93" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="93" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring02/application/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring03/dao/impl/BookDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring01/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring02/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="104" selection-start-line="3" selection-start-column="104" selection-end-line="3" selection-end-column="104" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/dao/BookDao.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -811,56 +707,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/InjectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring05.spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring05/spring-config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/dao/BookDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/dao/impl/BookDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring04/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/src/test/java/spring04/TestTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="552">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -869,16 +719,409 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring05/application/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="67" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="67" />
+        <state relative-caret-position="253">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
             <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring06/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring08_aop/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.1/mybatis-3.4.1.jar!/org/apache/ibatis/session/SqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/utils/MyBatisUtil.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/resources/spring09_mybatis/MyBatisCfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/BookTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/test/java/spring09/TestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/BookTypeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/mapper/impl/BookTypeDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapper/impl/BookTypeDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapper/BookTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapper/BookTypeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/dao/BookTypeDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/ApplicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/MyBatisCfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="67" column="4" selection-start-line="67" selection-start-column="4" selection-end-line="76" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/src/main/java/com/home/spring_09_mybatis/utils/MyBatisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/resources/MyBatisCfg2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/resources/MyBatisCfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/entities/BookType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapping/BookTypeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="8" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/mapping/BookTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.0.RELEASE/spring-jdbc-4.3.0.RELEASE.jar!/org/springframework/jdbc/datasource/DriverManagerDataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="57" column="42" selection-start-line="57" selection-start-column="42" selection-end-line="57" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/java/come/home/spring02_01/application/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/resources/ApplicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring02/src/main/resources/ApplicationContext2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
+          <folding>
+            <element signature="e#993#1009#0" expanded="true" />
+            <element signature="e#1042#1055#0" expanded="true" />
+            <element signature="e#1093#1111#0" expanded="true" />
+            <element signature="e#1149#1167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/entities/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding>
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#819#820#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#923#924#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/service/BookService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/sql/sql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/mapper/BookDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/test/java/BooKTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/resources/mapper/BookMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="44" column="60" selection-start-line="44" selection-start-column="60" selection-end-line="44" selection-end-column="60" />
+          <folding>
+            <element signature="e#1206#1222#0" expanded="true" />
+            <element signature="e#1286#1299#0" expanded="true" />
+            <element signature="e#1360#1373#0" expanded="true" />
+            <element signature="e#1437#1450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="79" column="20" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/webapp/AddBook.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/util/CtxUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BookController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1483#1484#0" expanded="true" />
+            <element signature="e#1519#1520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring03_Demo/src/main/java/com/home/controller/BaseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -889,10 +1132,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>Spring03_Demo:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20973451" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -904,7 +1149,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20973451" />
               </list>
             </option>
           </splitter-proportions>
@@ -927,7 +1172,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20973451" />
               </list>
             </option>
           </splitter-proportions>
@@ -935,12 +1180,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
+          <last-edited>Web|Spring03_Demo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.20973451" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -948,11 +1192,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: cglib:cglib:3.2.4</last-edited>
+          <last-edited>Maven: commons-logging:commons-logging:1.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.20973451" />
               </list>
             </option>
           </splitter-proportions>
