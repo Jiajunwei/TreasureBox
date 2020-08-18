@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://java.sun.com/xml/ns/javaee"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         id="WebApp_ID" version="3.0" >
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!-- 1.使用监听器启动Spring容器 -->
+    <listener>
+        <description>Spring容器加载监听器</description>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+    <context-param>
+        <description>设置Spring加载时的配置文件位置，默认位置在web-inf/lib下</description>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>classpath*:applicationContext.xml</param-value>
+    </context-param>
+
+    <!-- 2.使用Servlet方式启动Spring容器 -->
+    <!--<servlet>-->
+        <!--<servlet-name>context</servlet-name>-->
+        <!--<servlet-class>org.springframework.web.context.ContextLoaderServlet</servlet-class>-->
+        <!--<load-on-startup>1</load-on-startup>-->
+    <!--</ servlet >-->
+    <!--<context-param>-->
+        <!--<param-name>contextConfigLocation</param-name>-->
+        <!--&lt;!&ndash; 多个配置文件之间以“，”隔开 &ndash;&gt;-->
+        <!--<param-value>-->
+            <!--classpath:beans1.xml,classpath:beans2.xml...-->
+        <!--</param-value>-->
+    <!--</context-param>-->
+</web-app>

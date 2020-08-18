@@ -12,6 +12,7 @@
         <module>Spring</module>
         <module>Spring02</module>
         <module>Spring03_Demo</module>
+        <module>SpringMVC_Demo</module>
     </modules>
 
 

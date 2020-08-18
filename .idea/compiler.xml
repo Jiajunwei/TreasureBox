@@ -10,6 +10,7 @@
         <module name="Spring" />
         <module name="Spring02" />
         <module name="Spring03_Demo" />
+        <module name="SpringMVC_Demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
