@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <!--类型别名，默认引入come.home.spring02_01.entities下的所有类 -->
+    <typeAliases>
+        <package name="come.home.spring02_01.com.home.entities"/>
+    </typeAliases>
+
+    <!-- 在ApplicationContext1.xml中配置了数据源，这里可以省略 -->
+    <!--<environments default="development">-->
+        <!--<environment id="development">-->
+            <!--<transactionManager type="JDBC" />-->
+            <!--<dataSource type="POOLED">-->
+                <!--<property name="driver" value="${driver}" />-->
+                <!--<property name="url" value="${url}" />-->
+                <!--<property name="username" value="${username}" />-->
+                <!--<property name="password" value="${password}" />-->
+            <!--</dataSource>-->
+        <!--</environment>-->
+    <!--</environments>-->
+
+	<mappers>
+	    <!--引入映射文件 -->
+		<mapper resource="come/home/spring02_01/mapping/BookTypeMapper.xml" />
+	</mappers>
+</configuration>
