@@ -13,6 +13,8 @@
         <module>Spring02</module>
         <module>Spring03_Demo</module>
         <module>SpringMVC_Demo</module>
+        <module>JavaWeb</module>
+        <module>JavaBase</module>
     </modules>
 
 

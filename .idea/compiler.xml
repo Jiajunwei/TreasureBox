@@ -7,6 +7,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="JavaBase" />
+        <module name="JavaWeb" />
         <module name="Spring" />
         <module name="Spring02" />
         <module name="Spring03_Demo" />
