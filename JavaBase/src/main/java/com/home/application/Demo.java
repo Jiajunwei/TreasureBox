@@ -2,14 +2,17 @@ package com.home.application;
 
 import com.home.annotation.MyAnnotation;
 
-@MyAnnotation(getValue = "annotaion on class")
+@MyAnnotation(getValue = "annotation on class")
 public class Demo {
 
-    @MyAnnotation(getValue = "annotaion on field")
-    String name;
+    @MyAnnotation(getValue = "annotation on field")
+    public String name; // public不可省略
 
-    @MyAnnotation(getValue = "an")
-    void hello(){}
+    @MyAnnotation(getValue = "annotation on method")
+    public void hello(){}
+
+    @MyAnnotation()
+    public void defaultMethod(){}
 
 
 }

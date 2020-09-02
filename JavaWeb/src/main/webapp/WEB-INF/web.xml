@@ -3,6 +3,10 @@
          xmlns="http://java.sun.com/xml/ns/javaee"
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
          id="WebApp_ID" version="3.0" >
+    
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
 
     <context-param>
         <param-name>testName</param-name>
@@ -44,13 +48,24 @@
         <servlet-name>MyHttpServlet2</servlet-name>
         <url-pattern>/test03</url-pattern>
     </servlet-mapping>
-    
-
-    
-    
 
 
+    <servlet>
+        <servlet-name>MyHttpServlet4</servlet-name>
+        <servlet-class>com.home.servlet.MyHttpServlet4</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MyHttpServlet4</servlet-name>
+        <url-pattern>/test04</url-pattern>
+    </servlet-mapping>
 
-
+    <servlet>
+        <servlet-name>MyHttpServlet5</servlet-name>
+        <servlet-class>com.home.servlet.MyHttpServlet5</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MyHttpServlet5</servlet-name>
+        <url-pattern>/test05</url-pattern>
+    </servlet-mapping>
 
 </web-app>
